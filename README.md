@@ -12,3 +12,9 @@ Perez et al., 2026 "A multinational pharmacoepidemiology atlas of prescription m
 run_subset_fast(subset_df, drug_list, group_name, progressor_fn, formula)
 ```
 The main function run_subset_fast (TDC_Cox.R) is provided with synthetic data.
+
+## Correspondence
+
+Kevin Perez\
+Institute of Oncology Research (IOR), Bellinzona, Switzerland\
+email: kevin.perez@ior.usi.ch
