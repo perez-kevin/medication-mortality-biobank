@@ -1,5 +1,6 @@
 # medication-mortality-biobank
 
-Time-dependent covariate (TDC) Cox model with synthetic data.
+Time-dependent covariate (TDC) Cox model.
 
-run_subset_fast(...)
+TDC_Cox.R
+  run_subset_fast(...)
