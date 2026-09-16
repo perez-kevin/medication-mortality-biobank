@@ -85,8 +85,8 @@ scenarios <- list(
 # 1. Define your list of formula strings
 formulas <- list(
   "Model1" = "Surv(tstart, tstop, status) ~ using + AgeEnroll + Gender + YearEnrolled"
-  # "Model2" = "Surv(tstart, tstop, status)  ~ using + AgeEnroll + Gender + YearEnrolled + Diabetes + Cancer + CVD",
-  # "Model3" = "Surv(tstart, tstop, status)  ~ using + AgeEnroll + Gender + YearEnrolled + Diabetes + Cancer + CVD + Smoker + BMI + SES"
+  # "Model2" = "Surv(tstart, tstop, status)  ~ using + AgeEnroll + Gender + YearEnrolled + CCI",
+  # "Model3" = "Surv(tstart, tstop, status)  ~ using + AgeEnroll + Gender + YearEnrolled + CCI + Smoker + BMI + SES"
 )
 
 drug_list = c('statin', 'aspirin')
