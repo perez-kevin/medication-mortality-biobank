@@ -59,3 +59,9 @@ Code is released under the MIT licence (`LICENSE`). Citation metadata for the ar
 Kevin Perez\
 Institute of Oncology Research (IOR), Bellinzona, Switzerland\
 email: kevin.perez@ior.usi.ch
+
+## Summary results
+`results/ResultsByCohort.csv` – cohort-level TDC Cox HRs (95% CI) for every drug, model and stratum.
+`results/MetaAnalysis.csv` – pooled random-effects estimates (k cohorts, I², τ, Q).
+`results/aou/` – target trial emulation HRs, 3-year risks and covariate balance (standardized mean differences).
+No participant counts are included.
