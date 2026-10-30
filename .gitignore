@@ -1,0 +1,7 @@
+# never commit participant-level or small-cell outputs
+*_model.csv
+*_raw.pkl
+*.rds
+.Rhistory
+.ipynb_checkpoints/
+.DS_Store
