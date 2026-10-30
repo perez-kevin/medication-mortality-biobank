@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "medication-mortality-biobank: code for a multinational pharmacoepidemiology atlas of prescription medication associations with all-cause mortality"
+type: software
+license: MIT
+repository-code: "https://github.com/perez-kevin/medication-mortality-biobank"
+authors:
+  - family-names: Perez
+    given-names: Kevin
+    affiliation: "Institute of Oncology Research (IOR), Bellinzona, Switzerland"
+  - family-names: Mak
+    given-names: Jonathan K. L.
+    affiliation: "The University of Hong Kong, Hong Kong, China"
+  - family-names: Tan
+    given-names: Kathryn C. B.
+  - family-names: Ganna
+    given-names: Andrea
+  - family-names: Ceschi
+    given-names: Alessandro
+  - family-names: Jylhävä
+    given-names: Juulia
+  - family-names: Cheung
+    given-names: Ching-Lung
+  - family-names: Alimonti
+    given-names: Andrea
+    affiliation: "Institute of Oncology Research (IOR), Bellinzona, Switzerland"
+keywords: [pharmacoepidemiology, mortality, time-dependent Cox, target trial emulation, biobank]
+preferred-citation:
+  type: article
+  title: "A multinational pharmacoepidemiology atlas of prescription medication associations with all-cause mortality across six population cohorts"
+  authors:
+    - family-names: Perez
+      given-names: Kevin
+    - family-names: Mak
+      given-names: Jonathan K. L.
+    - family-names: Tan
+      given-names: Kathryn C. B.
+    - family-names: Ganna
+      given-names: Andrea
+    - family-names: Ceschi
+      given-names: Alessandro
+    - family-names: Jylhävä
+      given-names: Juulia
+    - family-names: Cheung
+      given-names: Ching-Lung
+    - family-names: Alimonti
+      given-names: Andrea
+  year: 2026

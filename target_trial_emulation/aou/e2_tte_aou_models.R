@@ -2,7 +2,7 @@
 ## Input: e2_aou_<TAG>_model.csv from the Python notebook (cell 5)
 library(survival); library(data.table)
 TAG        <- 'vaginal_45_60'   # must match TAG in the notebook, e.g. 'nonuser_45_60', 'vaginal_60_80'
-B_BOOT     <- 200               # 20 for a quick test
+B_BOOT     <- 50                # as in the manuscript; 20 for a quick test
 RISK_YEARS <- 3
 
 d <- fread(sprintf('e2_aou_%s_model.csv', TAG))

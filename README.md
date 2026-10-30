@@ -50,6 +50,10 @@ R ≥ 4.2 with `survival`, `dplyr`, `purrr`, `broom`, `progressr`, `data.table`,
 `metafor` (meta-analysis); Python 3 with `pandas`, `numpy`, `statsmodels`, `lifelines`, `matplotlib` and
 `google-cloud-bigquery` (All of Us).
 
+## Licence and citation
+Code is released under the MIT licence (`LICENSE`). Citation metadata for the archived release is in
+`CITATION.cff`.
+
 ## Correspondence
 
 Kevin Perez\

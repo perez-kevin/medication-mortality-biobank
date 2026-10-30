@@ -2,7 +2,7 @@
 ## Input: vzv_aou_ac_<COMPARATOR>_model.csv from the Python notebook (cell 5)
 library(survival); library(data.table)
 COMPARATOR <- 'pneumo'          # 'pneumo' or 'tdap'
-B_BOOT     <- 200               # use 20 for a quick test run
+B_BOOT     <- 50                # as in the manuscript; use 20 for a quick test run
 RISK_YEARS <- 3
 
 d <- fread(sprintf('vzv_aou_ac_%s_model.csv', COMPARATOR))
