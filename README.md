@@ -13,6 +13,7 @@ only the TDC Cox function ships with synthetic data and runs anywhere.
 | Path | Manuscript | Runs in |
 |---|---|---|
 | `TDC_Cox.R` | Time-dependent covariate (TDC) Cox screen, Models 1–3 and strata (Figure 2) | anywhere (synthetic data); each cohort |
+| `active_comparator/run_ac_fast.R` | New-user active-comparator Cox models (Figure S2) | each cohort |
 | `meta_analysis/01_meta_analysis.R` | Random-effects (REML) meta-analysis of AOU, UKBB, FinnGen and CDARS; Bonferroni within group | anywhere (cohort-level HRs) |
 | `figures/02_figure2.R` | Figure 2, panels A–E | anywhere (cohort-level HRs) |
 | `negative_controls/nco_cause_specific_finngen.R` | Cause-specific mortality as negative-control outcomes (Figure 3C) | FinnGen Sandbox |
