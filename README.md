@@ -20,7 +20,6 @@ only the TDC Cox function ships with synthetic data and runs anywhere.
 | `figures/plot_cause_specific.R` | Figure 3C forest plot | anywhere (summary table) |
 | `target_trial_emulation/aou/vzv_tte_aou.ipynb` | VZV vaccine target trial emulation vs matched unvaccinated (Figure S3, S4A) | All of Us Workbench |
 | `target_trial_emulation/aou/vzv_tte_aou_ac.ipynb` + `vzv_tte_aou_ac_models.R` | VZV vaccine vs pneumococcal or Td/Tdap vaccine recipients (Figure S3, S4B–C) | All of Us Workbench |
-| `target_trial_emulation/aou/e2_tte_aou.ipynb` + `e2_tte_aou_models.R` | Estradiol emulation (women aged 45–59; too few deaths to report) | All of Us Workbench |
 
 ## TDC Cox model
 
